@@ -1,4 +1,4 @@
-![image](https://github.com/kaiesamurai/frx-chess-main/assets/96937608/5b9766df-bddb-4a39-ae51-cb5493303276)# Web3 Chess
+Contracts repo: https://github.com/kaiesamurai/frx-chess 
 
 Welcome to Web3 Chess, the decentralized chess platform where you can not only enjoy the timeless game of chess but also earn rewards and collect unique NFTs.
 
