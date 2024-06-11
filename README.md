@@ -1,4 +1,4 @@
-# Web3 Chess
+![image](https://github.com/kaiesamurai/frx-chess-main/assets/96937608/5b9766df-bddb-4a39-ae51-cb5493303276)# Web3 Chess
 
 Welcome to Web3 Chess, the decentralized chess platform where you can not only enjoy the timeless game of chess but also earn rewards and collect unique NFTs.
 
@@ -22,8 +22,15 @@ Frax Testnet is a blockchain platform built for running smart contract-based app
 ## Contract Addresses and Deployment, Transactions on Frax Testnet:
 
 - **NFT Contract**: `0x30E27922E8de75aCa3d82c81aB994A99412F6A46`
+https://holesky.fraxscan.com/address/0x30E27922E8de75aCa3d82c81aB994A99412F6A46
 - **Game Contract**: `0xb0E26998DfDE5c672652e88118396838FF440e85`
+https://holesky.fraxscan.com/address/0xb0E26998DfDE5c672652e88118396838FF440e85
 - **Marketplace Contract**: `0x20582f1aA08b61143990dEB9820fc8e436730f0C`
+https://holesky.fraxscan.com/address/0x20582f1aA08b61143990dEB9820fc8e436730f0C
+
+![image](https://github.com/kaiesamurai/frx-chess-main/assets/96937608/a4169034-1f0c-4378-8890-a69d7aa1b533)
+![image](https://github.com/kaiesamurai/frx-chess-main/assets/96937608/49205b3a-514f-4541-8f2b-6744b75174b3)
+![image](https://github.com/kaiesamurai/frx-chess-main/assets/96937608/f7421697-cddc-4a67-a131-b114594030a3)
 
 ## Features
 
